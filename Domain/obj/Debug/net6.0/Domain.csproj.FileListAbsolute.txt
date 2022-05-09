@@ -1,0 +1,12 @@
+/Users/jamesisaacs/aDeveloper/Reactivity/Domain/bin/Debug/net6.0/Domain.deps.json
+/Users/jamesisaacs/aDeveloper/Reactivity/Domain/bin/Debug/net6.0/Domain.dll
+/Users/jamesisaacs/aDeveloper/Reactivity/Domain/bin/Debug/net6.0/Domain.pdb
+/Users/jamesisaacs/aDeveloper/Reactivity/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/Users/jamesisaacs/aDeveloper/Reactivity/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesisaacs/aDeveloper/Reactivity/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/Users/jamesisaacs/aDeveloper/Reactivity/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/Users/jamesisaacs/aDeveloper/Reactivity/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/Users/jamesisaacs/aDeveloper/Reactivity/Domain/obj/Debug/net6.0/Domain.dll
+/Users/jamesisaacs/aDeveloper/Reactivity/Domain/obj/Debug/net6.0/refint/Domain.dll
+/Users/jamesisaacs/aDeveloper/Reactivity/Domain/obj/Debug/net6.0/Domain.pdb
+/Users/jamesisaacs/aDeveloper/Reactivity/Domain/obj/Debug/net6.0/ref/Domain.dll

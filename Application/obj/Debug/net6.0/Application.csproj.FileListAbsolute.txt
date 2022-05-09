@@ -1,0 +1,17 @@
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/bin/Debug/net6.0/Application.deps.json
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/bin/Debug/net6.0/Application.dll
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/bin/Debug/net6.0/Application.pdb
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/bin/Debug/net6.0/Domain.dll
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/bin/Debug/net6.0/Persistence.dll
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/bin/Debug/net6.0/Persistence.pdb
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/bin/Debug/net6.0/Domain.pdb
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/obj/Debug/net6.0/Application.csproj.AssemblyReference.cache
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/obj/Debug/net6.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/obj/Debug/net6.0/Application.AssemblyInfoInputs.cache
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/obj/Debug/net6.0/Application.AssemblyInfo.cs
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/obj/Debug/net6.0/Application.csproj.CoreCompileInputs.cache
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/obj/Debug/net6.0/Application.csproj.CopyComplete
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/obj/Debug/net6.0/Application.dll
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/obj/Debug/net6.0/refint/Application.dll
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/obj/Debug/net6.0/Application.pdb
+/Users/jamesisaacs/aDeveloper/Reactivity/Application/obj/Debug/net6.0/ref/Application.dll

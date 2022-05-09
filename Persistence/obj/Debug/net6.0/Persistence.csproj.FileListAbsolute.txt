@@ -1,0 +1,15 @@
+/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/bin/Debug/net6.0/Persistence.deps.json
+/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/bin/Debug/net6.0/Persistence.dll
+/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/bin/Debug/net6.0/Persistence.pdb
+/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/bin/Debug/net6.0/Domain.dll
+/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/bin/Debug/net6.0/Domain.pdb
+/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
+/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
+/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfo.cs
+/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/obj/Debug/net6.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/obj/Debug/net6.0/Persistence.csproj.CopyComplete
+/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/obj/Debug/net6.0/Persistence.dll
+/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/obj/Debug/net6.0/refint/Persistence.dll
+/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/obj/Debug/net6.0/Persistence.pdb
+/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/obj/Debug/net6.0/ref/Persistence.dll

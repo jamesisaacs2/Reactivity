@@ -1,0 +1,246 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jamesisaacs/aDeveloper/Reactivity/API/API.csproj": {}
+  },
+  "projects": {
+    "/Users/jamesisaacs/aDeveloper/Reactivity/API/API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jamesisaacs/aDeveloper/Reactivity/API/API.csproj",
+        "projectName": "API",
+        "projectPath": "/Users/jamesisaacs/aDeveloper/Reactivity/API/API.csproj",
+        "packagesPath": "/Users/jamesisaacs/.nuget/packages/",
+        "outputPath": "/Users/jamesisaacs/aDeveloper/Reactivity/API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jamesisaacs/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/jamesisaacs/aDeveloper/Reactivity/Application/Application.csproj": {
+                "projectPath": "/Users/jamesisaacs/aDeveloper/Reactivity/Application/Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jamesisaacs/aDeveloper/Reactivity/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jamesisaacs/aDeveloper/Reactivity/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/jamesisaacs/aDeveloper/Reactivity/Application/Application.csproj",
+        "packagesPath": "/Users/jamesisaacs/.nuget/packages/",
+        "outputPath": "/Users/jamesisaacs/aDeveloper/Reactivity/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jamesisaacs/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/jamesisaacs/aDeveloper/Reactivity/Domain/Domain.csproj": {
+                "projectPath": "/Users/jamesisaacs/aDeveloper/Reactivity/Domain/Domain.csproj"
+              },
+              "/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jamesisaacs/aDeveloper/Reactivity/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jamesisaacs/aDeveloper/Reactivity/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/jamesisaacs/aDeveloper/Reactivity/Domain/Domain.csproj",
+        "packagesPath": "/Users/jamesisaacs/.nuget/packages/",
+        "outputPath": "/Users/jamesisaacs/aDeveloper/Reactivity/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jamesisaacs/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/jamesisaacs/.nuget/packages/",
+        "outputPath": "/Users/jamesisaacs/aDeveloper/Reactivity/Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jamesisaacs/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/jamesisaacs/aDeveloper/Reactivity/Domain/Domain.csproj": {
+                "projectPath": "/Users/jamesisaacs/aDeveloper/Reactivity/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
